@@ -6,7 +6,7 @@ Prepared by: Punloeuvivorth ROM
  
 1. [Introduction](#1) <br>
 2. [The dataset](#2) <br>
-3. [Explanatory data analysis (EDA)](#3) <br>
+3. [Exploratory data analysis (EDA)](#3) <br>
     3.1 [Target variable](#4) <br>
     3.2 [Bank client data](#5) <br>
     3.3 [Last contact information](#6) <br>
