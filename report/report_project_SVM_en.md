@@ -275,7 +275,7 @@ As presented earlier, we found a few client with age above 70 that may be the ou
 
 <img src="https://github.com/punloeuvivorth/M2_ECAP_Projet_SVM/blob/main/img/9_age70.png" alt="9_age70.png" style="width:600px;"/>
 
-With the total number of ouliers (469 obs) compared to the total observation of 41188, it may not seem that much of a deal. One may consider removing them as it's only 1.14% of the whole dataset . Yet, if we take into account these ouliers with the target variable, we may suffer from potential imformation loss (about half of the clients age above 70 response positively to the marketing campaign). We decided to keep these values by just keeping in mind that there exist some ouliers in 'age'. 
+With the total number of outliers (469 obs) compared to the total observation of 41188, it may not seem that much of a deal. One may consider removing them as it's only 1.14% of the whole dataset . Yet, if we take into account these outliers with the target variable, we may suffer from potential imformation loss (about half of the clients age above 70 response positively to the marketing campaign). We decided to keep these values by just keeping in mind that there exist some outliers in 'age'. 
 
 There may also exist some outliers in other numerical variables, yet most of them are not related to the individual but to time.
 
