@@ -202,7 +202,7 @@ df.head()
 
 
 <a id="3"></a>
-# 3. Exploratory data analysis (EDA)
+# 3. Analyse exploratoire des données 
 [Table des matières](#20) <br>  
 
   3.1 [Variable target](#4) <br>
