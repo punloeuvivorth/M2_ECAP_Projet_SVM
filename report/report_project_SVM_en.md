@@ -931,7 +931,7 @@ print(classification_report(y_test, ann_pred, digits=5))
     
     
 
-When comparing the performance of classification models, a ROC curve can provide valuable information on the trade-off between the the true positive rate (TPR) and and the false positive rate (FPR). The ROC curve allows us to evaluate the models' performance over all possible threshold settings, providing a comprehensive view of their performance. In our case, the ROC curves of the logistic regression and SVC models are similar, it suggests that they perform similarly in terms of the TPR-FPR trade-off. 
+When comparing the performance of classification models, a ROC curve can provide valuable information on the trade-off between the true positive rate (TPR) and and the false positive rate (FPR). The ROC curve allows us to evaluate the models' performance over all possible threshold settings, providing a comprehensive view of their performance. In our case, the ROC curves of the logistic regression and SVC models are similar, it suggests that they perform similarly in terms of the TPR-FPR trade-off. 
 
 The area under the ROC curve (AUC) represents the probability that a randomly chosen positive instance will be ranked higher than a randomly chosen negative instance by the model.
 
