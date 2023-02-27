@@ -878,7 +878,7 @@ On obtient un meilleur résultat avec ce modèle final par rapport au précéden
 
 
 <a id="18"></a>
-# 6. Rrésumé
+# 6. Résumé
 [Table des matières](#20)
 
 Nous avons déjà présenté l'application pour les 3 modèles : régression logistique, SVC et ANN. On présente à nouveau les métriques de performance pour chaque modèle (optimisé) via le rapport de classification et la courbe ROC.
