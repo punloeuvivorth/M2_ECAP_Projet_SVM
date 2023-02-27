@@ -1,4 +1,4 @@
-# <center>L'application de SVM et de réseau de neurones : <br> Campagnes de marketing bancaire</center>
+# <center>Campagnes de marketing bancaire : <br> une application de SVM et de réseau de neurones</center>
 
 <a id="20"></a>
 Punloeuvivorth ROM - M2 ECAP
